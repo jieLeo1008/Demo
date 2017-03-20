@@ -1,0 +1,7 @@
+#Sun Mar 19 21:00:06 CST 2017
+base.0=C\:\\Users\\jie\\Desktop\\StudioWorkSpace\\Demo\\BaiduMapDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2162d02a3f4fa12ac20a0d590ddeb01463319d9e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\jie\\Desktop\\StudioWorkSpace\\Demo\\BaiduMapDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_83c05d0347d304d8b4fee56b7e9c30e7cb8bb563\\classes.dex
+base.1=C\:\\Users\\jie\\Desktop\\StudioWorkSpace\\Demo\\BaiduMapDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_83c05d0347d304d8b4fee56b7e9c30e7cb8bb563
+file.0=C\:\\Users\\jie\\Desktop\\StudioWorkSpace\\Demo\\BaiduMapDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2162d02a3f4fa12ac20a0d590ddeb01463319d9e\\classes.dex
