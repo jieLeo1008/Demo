@@ -1,34 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\Demo\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+        "merged": "/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/dllo/.android/build-cache/94a1529a82682280658954d103ecd204a3080353/output/res/layout-v21/notification_action_tombstone.xml"
     },
     {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+        "merged": "/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/dllo/.android/build-cache/94a1529a82682280658954d103ecd204a3080353/output/res/layout-v21/notification_action.xml"
     },
     {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\layout-v21\\notification_action.xml"
+        "merged": "/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/dllo/.android/build-cache/94a1529a82682280658954d103ecd204a3080353/output/res/layout-v21/notification_template_icon_group.xml"
     },
     {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\Demo\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\layout-v21\\notification_action_tombstone.xml"
-    },
-    {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\Demo\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\layout-v21\\notification_action.xml"
-    },
-    {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\Demo\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\layout-v21\\notification_template_custom_big.xml"
-    },
-    {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\layout-v21\\notification_template_icon_group.xml"
-    },
-    {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+        "merged": "/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/dllo/.android/build-cache/94a1529a82682280658954d103ecd204a3080353/output/res/layout-v21/notification_template_custom_big.xml"
     }
 ]

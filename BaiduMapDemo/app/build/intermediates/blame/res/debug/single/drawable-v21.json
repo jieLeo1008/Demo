@@ -1,34 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+        "merged": "/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/dllo/.android/build-cache/94a1529a82682280658954d103ecd204a3080353/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\Demo\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\drawable-v21\\notification_action_background.xml"
+        "merged": "/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/dllo/.android/build-cache/94a1529a82682280658954d103ecd204a3080353/output/res/drawable-v21/abc_btn_colored_material.xml"
     },
     {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\Demo\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+        "merged": "/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/dllo/.android/build-cache/94a1529a82682280658954d103ecd204a3080353/output/res/drawable-v21/notification_action_background.xml"
     },
     {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\Demo\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\Demo\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\drawable-v21\\notification_action_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+        "merged": "/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/dllo/.android/build-cache/94a1529a82682280658954d103ecd204a3080353/output/res/drawable-v21/abc_edit_text_material.xml"
     }
 ]

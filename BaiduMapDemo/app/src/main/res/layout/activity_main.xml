@@ -57,6 +57,11 @@
             android:text="关闭定位"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"/>
+        <Button
+            android:id="@+id/move_to_position"
+            android:text="移动到我的位置"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
 
     </LinearLayout>
 

@@ -1,18 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
-        "source": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\BaiduMapDemo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\Demo\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
-        "source": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\Demo\\BaiduMapDemo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\Demo\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
-        "source": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\Demo\\BaiduMapDemo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
-        "source": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\BaiduMapDemo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     }
 ]

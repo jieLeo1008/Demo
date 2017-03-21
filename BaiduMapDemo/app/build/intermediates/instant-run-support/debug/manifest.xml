@@ -61,6 +61,11 @@
             android:value="G1ceTfWH1BsAcfpjwt9agf0GHVFa35Tn" />
 
         <service
+            android:name="com.baidu.location.f"
+            android:enabled="true"
+            android:process=":remote" >
+        </service>
+        <service
             android:name="com.android.tools.fd.runtime.InstantRunService"
             android:exported="true" />
     </application>

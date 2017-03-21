@@ -3,7 +3,6 @@ package com.example.jie.baidumapdemo;
 import android.app.Application;
 import android.content.Context;
 
-import com.baidu.location.LocationClient;
 import com.baidu.mapapi.SDKInitializer;
 
 /**

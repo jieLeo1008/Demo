@@ -1,82 +1,42 @@
 [
     {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\color-v23\\abc_tint_default.xml"
+        "merged": "/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/dllo/.android/build-cache/94a1529a82682280658954d103ecd204a3080353/output/res/color-v23/abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\color-v23\\abc_tint_edittext.xml"
+        "merged": "/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/dllo/.android/build-cache/94a1529a82682280658954d103ecd204a3080353/output/res/color-v23/abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\Demo\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+        "merged": "/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/dllo/.android/build-cache/94a1529a82682280658954d103ecd204a3080353/output/res/color-v23/abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\Demo\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+        "merged": "/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/dllo/.android/build-cache/94a1529a82682280658954d103ecd204a3080353/output/res/color-v23/abc_tint_spinner.xml"
     },
     {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\Demo\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+        "merged": "/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/dllo/.android/build-cache/94a1529a82682280658954d103ecd204a3080353/output/res/color-v23/abc_tint_default.xml"
     },
     {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+        "merged": "/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/dllo/.android/build-cache/94a1529a82682280658954d103ecd204a3080353/output/res/color-v23/abc_tint_edittext.xml"
     },
     {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\Demo\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+        "merged": "/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/dllo/.android/build-cache/94a1529a82682280658954d103ecd204a3080353/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\Demo\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\color-v23\\abc_tint_edittext.xml"
+        "merged": "/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/dllo/.android/build-cache/94a1529a82682280658954d103ecd204a3080353/output/res/color-v23/abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+        "merged": "/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/dllo/.android/build-cache/94a1529a82682280658954d103ecd204a3080353/output/res/color-v23/abc_tint_switch_track.xml"
     },
     {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\color-v23\\abc_tint_spinner.xml"
-    },
-    {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\Demo\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
-    },
-    {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
-    },
-    {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\Demo\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\color-v23\\abc_tint_spinner.xml"
-    },
-    {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\Demo\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\Demo\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\color-v23\\abc_tint_default.xml"
-    },
-    {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
-    },
-    {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\Demo\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
-    },
-    {
-        "merged": "C:\\Users\\jie\\Desktop\\StudioWorkSpace\\BaiduMapDemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
-        "source": "C:\\Android\\.android\\build-cache\\d2875c478d85633f515b1c9201c13cfe33ed6c44\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+        "merged": "/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/dllo/.android/build-cache/94a1529a82682280658954d103ecd204a3080353/output/res/color-v23/abc_color_highlight_material.xml"
     }
 ]

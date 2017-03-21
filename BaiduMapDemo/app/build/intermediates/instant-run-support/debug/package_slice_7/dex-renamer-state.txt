@@ -1,4 +1,4 @@
-#Sun Mar 19 20:48:18 CST 2017
-base.0=C\:\\Users\\jie\\Desktop\\StudioWorkSpace\\Demo\\BaiduMapDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7
+#Mon Mar 20 20:59:45 CST 2017
+base.0=/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7
 renamed.0=classes.dex
-file.0=C\:\\Users\\jie\\Desktop\\StudioWorkSpace\\Demo\\BaiduMapDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7\\classes.dex
+file.0=/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex

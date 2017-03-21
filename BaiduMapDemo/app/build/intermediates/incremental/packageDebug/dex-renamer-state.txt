@@ -1,7 +1,7 @@
-#Sun Mar 19 21:00:06 CST 2017
-base.0=C\:\\Users\\jie\\Desktop\\StudioWorkSpace\\Demo\\BaiduMapDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2162d02a3f4fa12ac20a0d590ddeb01463319d9e
+#Tue Mar 21 11:03:58 CST 2017
+base.0=/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8685e1b99b9b49f0faf8904d0f4800e13e5fa7bc
 renamed.1=classes.dex
 renamed.0=classes2.dex
-file.1=C\:\\Users\\jie\\Desktop\\StudioWorkSpace\\Demo\\BaiduMapDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_83c05d0347d304d8b4fee56b7e9c30e7cb8bb563\\classes.dex
-base.1=C\:\\Users\\jie\\Desktop\\StudioWorkSpace\\Demo\\BaiduMapDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_83c05d0347d304d8b4fee56b7e9c30e7cb8bb563
-file.0=C\:\\Users\\jie\\Desktop\\StudioWorkSpace\\Demo\\BaiduMapDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2162d02a3f4fa12ac20a0d590ddeb01463319d9e\\classes.dex
+file.1=/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0fb5883e5ab47cf869d352762c10756134a99d0c/classes.dex
+base.1=/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0fb5883e5ab47cf869d352762c10756134a99d0c
+file.0=/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8685e1b99b9b49f0faf8904d0f4800e13e5fa7bc/classes.dex
