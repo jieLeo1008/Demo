@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/dllo/Desktop/GitSpace/Demo/alipay_demo/app/build/intermediates/res/merged/debug/layout/pay_external.xml",
+        "source": "/Users/dllo/Desktop/GitSpace/Demo/alipay_demo/app/src/main/res/layout/pay_external.xml"
+    },
+    {
+        "merged": "/Users/dllo/Desktop/GitSpace/Demo/alipay_demo/app/build/intermediates/res/merged/debug/layout/pay_main.xml",
+        "source": "/Users/dllo/Desktop/GitSpace/Demo/alipay_demo/app/src/main/res/layout/pay_main.xml"
+    }
+]

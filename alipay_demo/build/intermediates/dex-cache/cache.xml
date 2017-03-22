@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/dllo/Desktop/GitSpace/Demo/alipay_demo/app/libs/android-support-v13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5b3db0befb5f9a8c310ca661ea2f67da12871fa2">
+        <dex dex="/Users/dllo/Desktop/GitSpace/Demo/alipay_demo/app/build/intermediates/pre-dexed/debug/android-support-v13_d3e9c338fcd555174ec0feeeb1aefd7c16a6075f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dllo/Desktop/GitSpace/Demo/alipay_demo/app/libs/alipaySdk-20170309.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2ce6c8d7e908b41b0c93c56169bec0de994d7a3d">
+        <dex dex="/Users/dllo/Desktop/GitSpace/Demo/alipay_demo/app/build/intermediates/pre-dexed/debug/alipaySdk-20170309_eca38b4445ef76fea3a4e53b188ba1d351e8f174.jar" />
+    </item>
+
+</items>
