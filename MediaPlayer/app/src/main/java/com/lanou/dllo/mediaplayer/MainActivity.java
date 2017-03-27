@@ -1,5 +1,7 @@
 package com.lanou.dllo.mediaplayer;
 
+import android.app.NotificationManager;
+import android.app.PendingIntent;
 import android.app.Service;
 import android.content.BroadcastReceiver;
 import android.content.ComponentName;
@@ -11,6 +13,7 @@ import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.drawable.BitmapDrawable;
 import android.os.IBinder;
+import android.support.v4.app.NotificationCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -24,6 +27,7 @@ import java.util.ArrayList;
 public class MainActivity extends AppCompatActivity implements View.OnClickListener, SeekBar.OnSeekBarChangeListener {
     private SeekBar seekBar;
 
+    private NotificationManager mNotificationManager;
     private MediaPlayService.MyBind myBind;
 
 
@@ -108,6 +112,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
 
 
+
+
+
     }
 
     @Override
@@ -145,6 +152,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         seekBar.setOnSeekBarChangeListener(this);
         headIv= (ImageView) findViewById(R.id.head_Iv);
         listView= (ListView) findViewById(R.id.listview);
+        mNotificationManager= (NotificationManager) getSystemService(NOTIFICATION_SERVICE);
     }
 
     @Override
@@ -185,6 +193,15 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 myBind.randomMode();
                 break;
         }
+    }
+
+
+    private void showNotify(){
+        NotificationCompat.Builder builder=new NotificationCompat.Builder(this);
+        Intent intent =new Intent(this,SeondActivity.class);
+//        PendingIntent PI=PendingIntent.getActivities(this,3,new Intent[]{intent},)
+//        builder.setSmallIcon(R.mipmap.ic_launcher)
+
     }
 
     @Override
