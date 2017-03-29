@@ -4,7 +4,15 @@
         "source": "/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     },
     {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/BaiduMapDemo/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
         "merged": "/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
         "source": "/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/BaiduMapDemo/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     }
 ]
