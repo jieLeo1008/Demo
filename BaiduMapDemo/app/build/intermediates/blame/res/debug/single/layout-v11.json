@@ -5,7 +5,7 @@
     },
     {
         "merged": "/Users/jieleo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
-        "source": "/Users/jieleo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/res/layout-v11/notification_template_big_media.xml"
+        "source": "/Users/jieleo/.android/build-cache/d7f5f37cccdee1d6fc7fc6c42d4c0df818f7c149/output/res/layout-v11/notification_template_big_media.xml"
     },
     {
         "merged": "/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
@@ -13,7 +13,7 @@
     },
     {
         "merged": "/Users/jieleo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
-        "source": "/Users/jieleo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/res/layout-v11/notification_template_big_media_custom.xml"
+        "source": "/Users/jieleo/.android/build-cache/d7f5f37cccdee1d6fc7fc6c42d4c0df818f7c149/output/res/layout-v11/notification_template_big_media_custom.xml"
     },
     {
         "merged": "/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
@@ -21,11 +21,11 @@
     },
     {
         "merged": "/Users/jieleo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
-        "source": "/Users/jieleo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/res/layout-v11/notification_template_big_media_narrow.xml"
+        "source": "/Users/jieleo/.android/build-cache/d7f5f37cccdee1d6fc7fc6c42d4c0df818f7c149/output/res/layout-v11/notification_template_big_media_narrow.xml"
     },
     {
         "merged": "/Users/jieleo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
-        "source": "/Users/jieleo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/res/layout-v11/notification_media_cancel_action.xml"
+        "source": "/Users/jieleo/.android/build-cache/d7f5f37cccdee1d6fc7fc6c42d4c0df818f7c149/output/res/layout-v11/notification_media_cancel_action.xml"
     },
     {
         "merged": "/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
@@ -41,10 +41,10 @@
     },
     {
         "merged": "/Users/jieleo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
-        "source": "/Users/jieleo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+        "source": "/Users/jieleo/.android/build-cache/d7f5f37cccdee1d6fc7fc6c42d4c0df818f7c149/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
     },
     {
         "merged": "/Users/jieleo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
-        "source": "/Users/jieleo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/res/layout-v11/notification_media_action.xml"
+        "source": "/Users/jieleo/.android/build-cache/d7f5f37cccdee1d6fc7fc6c42d4c0df818f7c149/output/res/layout-v11/notification_media_action.xml"
     }
 ]
