@@ -9,6 +9,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
+import java.util.List;
+
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
     private ServiceConnection mServiceConnection=new ServiceConnection() {
@@ -26,12 +28,16 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         }
     };
     private MyAIDL mMyAIDL;
+    private Person mPerson;
+    private List<Person>  mPersons;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         findViewById(R.id.button).setOnClickListener(this);
         findViewById(R.id.button2).setOnClickListener(this);
+        mPerson = new Person("刘浩","男",90);
     }
 
     @Override
@@ -57,6 +63,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 if (mMyAIDL!=null){
                     try {
                         mMyAIDL.getData();
+                        mMyAIDL.addPerson(mPerson);
+                        mMyAIDL.getList();
+                        mPersons=mMyAIDL.getList();
                     } catch (RemoteException e) {
                         e.printStackTrace();
                     }

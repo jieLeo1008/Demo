@@ -20,6 +20,7 @@ import rx.schedulers.Schedulers;
 public class MainActivity extends AppCompatActivity {
 
     private String url="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1490600695&di=a3936bf8fe65a5176091d0292251193f&imgtype=jpg&er=1&src=http%3A%2F%2Fa.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2F9358d109b3de9c82d94b518a6e81800a19d8438c.jpg";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -34,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
                 //返回结果回到主线程
                 .observeOn(AndroidSchedulers.mainThread()).subscribe(bitmap -> {
                     imageView.setImageBitmap(bitmap);
+
                 });
 
     }

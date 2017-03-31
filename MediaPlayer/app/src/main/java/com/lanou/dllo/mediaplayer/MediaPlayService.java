@@ -10,7 +10,6 @@ import android.os.Binder;
 import android.os.IBinder;
 import android.os.Parcelable;
 import android.provider.MediaStore;
-import android.support.annotation.Nullable;
 import android.util.Log;
 
 import java.io.IOException;
@@ -81,7 +80,6 @@ public class MediaPlayService extends Service {
     }
 
 
-    @Nullable
     @Override
     public IBinder onBind(Intent intent) {
         return myBind;

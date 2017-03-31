@@ -82,7 +82,7 @@ public class MainActivity extends AppCompatActivity {
 //        map.put(key4,value4);
 //        map.put(key5,value5);
 
-
+    //动态申请权限
 //        Observable<NewBean>   newBeanObservable=myService.getNewData(map);
 //        newBeanObservable.observeOn(AndroidSchedulers.mainThread()).subscribeOn(Schedulers.io()).subscribe(new Subscriber<NewBean>() {
 //            @Override
