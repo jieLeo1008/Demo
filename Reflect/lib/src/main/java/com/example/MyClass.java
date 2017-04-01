@@ -84,6 +84,14 @@ public class MyClass {
         method.invoke(list,"我是添加的字符串");
         System.out.println(list.get(0));
 
+        /**
+         * 建造者模式
+         * 链式编程
+         */
+        Person.Builder builder=new Person.Builder();
+        builder.name("刘浩").age(100).height(100.0).weight(200.2).build();
+        System.out.println("name"+builder.getName()+"age"+builder.getAge()+"height"+builder.getHeight()+"weight"+builder.getWeight());
+
 
     }
 }
