@@ -10,17 +10,5 @@
     {
         "merged": "/Users/jieleo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
         "source": "/Users/jieleo/.android/build-cache/d7f5f37cccdee1d6fc7fc6c42d4c0df818f7c149/output/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
-        "merged": "/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "/Users/dllo/.android/build-cache/94a1529a82682280658954d103ecd204a3080353/output/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
-        "merged": "/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
-        "source": "/Users/dllo/.android/build-cache/94a1529a82682280658954d103ecd204a3080353/output/res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
-        "merged": "/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "/Users/dllo/.android/build-cache/94a1529a82682280658954d103ecd204a3080353/output/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     }
 ]

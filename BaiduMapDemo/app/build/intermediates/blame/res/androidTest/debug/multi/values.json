@@ -1,29 +1,5 @@
 [
     {
-        "outputFile": "/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 45,
-                    "endOffset": 96
-                },
-                "from": {
-                    "file": "/Users/dllo/.android/build-cache/8ff1d71ccd29c1fe50591ab7bfd2902ceacbfc53/output/res/values/values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 229,
-                        "endColumn": 45,
-                        "endOffset": 270
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "/Users/jieleo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
         "map": [
             {

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.jieleo.designdemo.MainActivity">
+
+    <Button
+        android:id="@+id/snack_bar"
+        android:text="SnackBar"
+        android:onClick="showSnackBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        app:errorEnabled="true"
+        app:errorTextAppearance="@style/TextAppearance.Design.Error"
+        android:layout_height="wrap_content">
+        <EditText
+            android:singleLine="true"
+            android:hint="请输入用户名"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+    </android.support.design.widget.TextInputLayout>
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        app:errorEnabled="true"
+        android:layout_height="wrap_content"
+        app:errorTextAppearance="@style/TextAppearance.Design.Error"
+        >
+        <EditText
+            android:singleLine="true"
+            android:hint="请输入密码"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+    </android.support.design.widget.TextInputLayout>
+
+</LinearLayout>

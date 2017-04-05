@@ -1,4 +1,4 @@
-#Mon Mar 20 20:59:45 CST 2017
-base.0=/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8
+#Sat Apr 01 20:51:11 CST 2017
+base.0=/Users/jieleo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8
 renamed.0=classes.dex
-file.0=/Users/dllo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex
+file.0=/Users/jieleo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex

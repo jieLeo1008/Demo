@@ -1,4 +1,7 @@
-#Tue Mar 28 11:41:21 CST 2017
-base.0=/Users/jieleo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
-renamed.0=classes.dex
-file.0=/Users/jieleo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+#Sat Apr 01 20:51:12 CST 2017
+base.0=/Users/jieleo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e211f55700c8c505af065bf8ed4ecd824cb10403
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/jieleo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1b53b03db6914a764f20cd7ff0474b4368b3ea72/classes.dex
+base.1=/Users/jieleo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1b53b03db6914a764f20cd7ff0474b4368b3ea72
+file.0=/Users/jieleo/Desktop/GitSpace/Demo/BaiduMapDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e211f55700c8c505af065bf8ed4ecd824cb10403/classes.dex
