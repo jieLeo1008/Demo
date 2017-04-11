@@ -26,7 +26,7 @@ public class MainActivity extends SwipeBackActivity implements SwipeBackLayout.S
         mKey=getString(R.string.key_tracking_mode);
         //设置滑动起始位值
         PreferenceUtils.setPrefInt(this,mKey,SwipeBackLayout.EDGE_LEFT);
-//添加滑动监听
+        //添加滑动监听
         mSwipeBackLayout.addSwipeListener(this);
     }
     public void newActivity(View view){
