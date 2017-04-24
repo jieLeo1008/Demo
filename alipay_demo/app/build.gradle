@@ -19,6 +19,6 @@ android {
 }
 
 dependencies {
-    compile files('libs/alipaySdk-20170309.jar')
+    compile files('libs/alipaySdk-20170407.jar')
     compile files('libs/android-support-v13.jar')
 }

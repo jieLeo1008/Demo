@@ -1,6 +1,22 @@
 ECLIPSE ANDROID PROJECT IMPORT SUMMARY
 ======================================
 
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .DS_Store
+* .idea/
+* .idea/alipay_demo.iml
+* .idea/compiler.xml
+* .idea/copyright/
+* .idea/copyright/profiles_settings.xml
+* .idea/misc.xml
+* .idea/modules.xml
+* .idea/workspace.xml
+
 Moved Files:
 ------------
 Android Gradle projects use a different directory structure than ADT
@@ -8,7 +24,7 @@ Eclipse projects. Here's how the projects were restructured:
 
 * AndroidManifest.xml => app/src/main/AndroidManifest.xml
 * assets/ => app/src/main/assets
-* libs/alipaySdk-20170309.jar => app/libs/alipaySdk-20170309.jar
+* libs/alipaySdk-20170407.jar => app/libs/alipaySdk-20170407.jar
 * libs/android-support-v13.jar => app/libs/android-support-v13.jar
 * lint.xml => app/lint.xml
 * proguard-project.txt => app/proguard-project.txt

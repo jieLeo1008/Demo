@@ -1,14 +1,14 @@
 [
     {
-        "merged": "/Users/dllo/Desktop/GitSpace/Demo/alipay_demo/app/build/intermediates/res/merged/debug/drawable-hdpi/msp_demo_title_bg.png",
-        "source": "/Users/dllo/Desktop/GitSpace/Demo/alipay_demo/app/src/main/res/drawable-hdpi/msp_demo_title_bg.png"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/alipay_demo/app/build/intermediates/res/merged/debug/drawable-hdpi/msp_demo_title.png",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/alipay_demo/app/src/main/res/drawable-hdpi/msp_demo_title.png"
     },
     {
-        "merged": "/Users/dllo/Desktop/GitSpace/Demo/alipay_demo/app/build/intermediates/res/merged/debug/drawable-hdpi/msp_demo_title.png",
-        "source": "/Users/dllo/Desktop/GitSpace/Demo/alipay_demo/app/src/main/res/drawable-hdpi/msp_demo_title.png"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/alipay_demo/app/build/intermediates/res/merged/debug/drawable-hdpi/msp_icon.png",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/alipay_demo/app/src/main/res/drawable-hdpi/msp_icon.png"
     },
     {
-        "merged": "/Users/dllo/Desktop/GitSpace/Demo/alipay_demo/app/build/intermediates/res/merged/debug/drawable-hdpi/msp_icon.png",
-        "source": "/Users/dllo/Desktop/GitSpace/Demo/alipay_demo/app/src/main/res/drawable-hdpi/msp_icon.png"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/alipay_demo/app/build/intermediates/res/merged/debug/drawable-hdpi/msp_demo_title_bg.png",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/alipay_demo/app/src/main/res/drawable-hdpi/msp_demo_title_bg.png"
     }
 ]

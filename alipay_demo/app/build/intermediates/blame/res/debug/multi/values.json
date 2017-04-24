@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/dllo/Desktop/GitSpace/Demo/alipay_demo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "outputFile": "/Users/jieleo/Desktop/GitSpace/Demo/alipay_demo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 97
                 },
                 "from": {
-                    "file": "/Users/dllo/Desktop/GitSpace/Demo/alipay_demo/app/src/main/res/values/strings.xml",
+                    "file": "/Users/jieleo/Desktop/GitSpace/Demo/alipay_demo/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
