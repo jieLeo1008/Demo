@@ -1,5 +1,6 @@
 package com.example.jieleo.huanxindemo;
 
+import android.content.Intent;
 import android.os.Handler;
 import android.os.Message;
 import android.support.v7.app.AppCompatActivity;
@@ -21,7 +22,7 @@ import java.util.List;
 public class ContactsList extends AppCompatActivity implements View.OnClickListener {
     private RecyclerView mRecyclerView;
     private TextView contactName;
-    private Button acceptBtn, refuseBtn;
+    private Button acceptBtn, refuseBtn,toChatBtn;
     List<String> userNames=new ArrayList<>();
     private ContactsListAdapter mAdapter;
     private String name;
@@ -45,6 +46,7 @@ public class ContactsList extends AppCompatActivity implements View.OnClickListe
         contactName = (TextView) findViewById(R.id.contact_name);
         acceptBtn = (Button) findViewById(R.id.accept_request);
         refuseBtn = (Button) findViewById(R.id.refuse_request);
+        toChatBtn = (Button) findViewById(R.id.to_chat);
 
         new Thread(new Runnable() {
             @Override
@@ -66,6 +68,7 @@ public class ContactsList extends AppCompatActivity implements View.OnClickListe
         mRecyclerView.setLayoutManager(new LinearLayoutManager(MyApp.getContext(), LinearLayoutManager.VERTICAL, false));
         mRecyclerView.setAdapter(mAdapter);
         mAdapter.setUserNames(userNames);
+        toChatBtn.setOnClickListener(this);
         acceptBtn.setOnClickListener(this);
         refuseBtn.setOnClickListener(this);
 
@@ -143,6 +146,9 @@ public class ContactsList extends AppCompatActivity implements View.OnClickListe
                 } catch (HyphenateException e) {
                     e.printStackTrace();
                 }
+                break;
+            case R.id.to_chat:
+                startActivity(new Intent(this,ChatActivity.class));
                 break;
         }
     }

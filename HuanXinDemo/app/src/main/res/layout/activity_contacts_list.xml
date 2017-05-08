@@ -27,6 +27,11 @@
             android:text="不同意"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
+        <Button
+            android:id="@+id/to_chat"
+            android:text="聊天界面"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
     </LinearLayout>
     <android.support.v7.widget.RecyclerView
         android:id="@+id/recycler_view"
