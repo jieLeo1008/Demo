@@ -5,6 +5,7 @@ import android.content.Context;
 
 import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMOptions;
+import com.hyphenate.easeui.controller.EaseUI;
 
 /**
  * Created by OldFour on 2017/5/8.
@@ -27,6 +28,8 @@ public class MyApp extends Application {
         EMClient.getInstance().init(context, options);
         //在做打包混淆时，关闭debug模式，避免消耗不必要的资源
         EMClient.getInstance().setDebugMode(true);
+
+//        EaseUI.getInstance().init(context,options);
     }
 
 
