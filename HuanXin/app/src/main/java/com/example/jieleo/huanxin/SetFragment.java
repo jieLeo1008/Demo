@@ -6,12 +6,12 @@ import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
 import com.example.jieleo.huanxin.adapter.SetRecyclerViewAdapter;
+import com.hyphenate.easeui.ui.*;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -58,7 +58,7 @@ public class SetFragment extends Fragment implements SetRecyclerViewAdapter.OnCl
                 startActivity(new Intent(getActivity(),AddContactActivity.class));
                 break;
             case 1://退出登录
-                startActivity(new Intent(getActivity(),TestActivity.class));
+                startActivity(new Intent(getActivity(), Test1Activity.class));
                 break;
         }
     }

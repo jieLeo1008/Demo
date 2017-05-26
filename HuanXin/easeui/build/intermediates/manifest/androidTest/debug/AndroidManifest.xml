@@ -13,8 +13,15 @@
         android:label="Tests for com.hyphenate.easeui.test"
         android:targetPackage="com.hyphenate.easeui.test" />
 
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
     <application>
         <uses-library android:name="android.test.runner" />
+
+        <activity android:name="com.hyphenate.easeui.ui.Test1Activity" >
+        </activity>
     </application>
 
 </manifest>

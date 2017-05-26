@@ -37,6 +37,8 @@ public class ChatActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        Log.d("ChatActivity", "onCreate");
         setContentView(R.layout.activity_chat);
 
         mEditText = (EditText) findViewById(R.id.my_edt);
@@ -50,8 +52,10 @@ public class ChatActivity extends AppCompatActivity {
         contactName = getIntent().getStringExtra("contactName");
         mChatBeen = new ArrayList<>();
 
+        
 
-        mToolbar.setTitle(contactName);
+
+//        mToolbar.setTitle(contactName);
 
         mEmMessageListener = new EMMessageListener() {
             @Override
@@ -89,10 +93,7 @@ public class ChatActivity extends AppCompatActivity {
             }
         };
 
-        //发送 不需要对当前会话显示Notification的广播
-        Intent intent=new Intent("ChatNow");
-        intent.putExtra("ChatNowName",contactName);
-        sendBroadcast(intent);
+
         EMClient.getInstance().chatManager().addMessageListener(mEmMessageListener);
     }
 
@@ -135,6 +136,25 @@ public class ChatActivity extends AppCompatActivity {
     }
 
     @Override
+    protected void onStart() {
+        super.onStart();
+        Log.d("ChatActivity", "onStart");
+    }
+
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        contactName = getIntent().getStringExtra("contactName");
+        mToolbar.setTitle(contactName);
+        //发送 不需要对当前会话显示Notification的广播
+        Intent intent=new Intent("ChatNow");
+        intent.putExtra("ChatNowName",contactName);
+        sendBroadcast(intent);
+        Log.d("ChatActivity", "onResume");
+    }
+
+    @Override
     protected void onPause() {
         super.onPause();
 
@@ -144,6 +164,7 @@ public class ChatActivity extends AppCompatActivity {
     @Override
     protected void onDestroy() {
         super.onDestroy();
+        Log.d("ChatActivity", "onDestroy");
         EMClient.getInstance().chatManager().removeMessageListener(mEmMessageListener);
         //发一条需要显示当前联系人Notification的广播
         Intent intent=new Intent("ChatOver");

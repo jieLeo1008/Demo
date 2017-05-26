@@ -6,14 +6,37 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.jieleo.customviewdemo.MainActivity">
+    tools:context="com.example.jieleo.customviewdemo.activity.MainActivity">
 
     <Button
         android:id="@+id/password_view"
         android:onClick="onClick"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
-    
 
+    <Button
+        android:id="@+id/item_decoration"
+        android:text="ItemDecoration"
+        android:onClick="onClick"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/object_animator"
+        android:onClick="onClick"
+        android:text="ObjectAnimator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/bga_aty"
+        android:onClick="onClick"
+        android:text="BGA_TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/text_input_layout"
+        android:text="TextInputLayout"
+        android:onClick="onClick"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
 
 </LinearLayout>

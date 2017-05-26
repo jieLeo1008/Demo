@@ -19,7 +19,6 @@ import android.widget.RemoteViews;
 import com.hyphenate.EMContactListener;
 import com.hyphenate.EMMessageListener;
 import com.hyphenate.chat.EMClient;
-import com.hyphenate.chat.EMImageMessageBody;
 import com.hyphenate.chat.EMMessage;
 import com.hyphenate.chat.EMTextMessageBody;
 import com.hyphenate.exceptions.HyphenateException;
@@ -206,7 +205,7 @@ public class MainActivity extends AppCompatActivity {
                 @Override
                 public void run() {
                     Log.d("MainActivity", "收到消息");
-                    sendCustromNotification(list);
+                    sendCustomNotification(list);
 
                 }
             });
@@ -233,7 +232,7 @@ public class MainActivity extends AppCompatActivity {
         }
     };
 
-    private void sendCustromNotification(List<EMMessage> list) {
+    private void sendCustomNotification(List<EMMessage> list) {
         for (EMMessage message : list) {
 
 
@@ -243,15 +242,26 @@ public class MainActivity extends AppCompatActivity {
             } else {
                 name = message.getFrom();
                 content = ((EMTextMessageBody) message.getBody()).getMessage();
-                mRemoteViews.setTextViewText(R.id.chat_name_notify, name);
-                mRemoteViews.setTextViewText(R.id.chat_content_notify, content);
+//                mRemoteViews.setTextViewText(R.id.chat_name_notify, name);
+//                mRemoteViews.setTextViewText(R.id.chat_content_notify, content);
                 Intent notifyIntent = new Intent(this, ChatActivity.class);
                 notifyIntent.putExtra("contactName", name);
-                PendingIntent pendingIntent = PendingIntent.getActivity(MainActivity.this, 1, notifyIntent, PendingIntent.FLAG_CANCEL_CURRENT);
-                mRemoteViews.setOnClickPendingIntent(R.id.chat_content_notify, pendingIntent);
-                mRemoteViews.setOnClickPendingIntent(R.id.chat_name_notify, pendingIntent);
-                mBuilder.setSmallIcon(R.mipmap.ic_launcher_round).setContent(mRemoteViews).setAutoCancel(true);
-                mNotificationManager.notify(1, mBuilder.build());
+//                mBuilder.setSmallIcon(R.mipmap.ic_launcher_round).setContent(mRemoteViews).setAutoCancel(true);
+                PendingIntent pendingIntent = PendingIntent.getActivity(MainActivity.this, 1, notifyIntent, PendingIntent.FLAG_UPDATE_CURRENT);
+//                mRemoteViews.setOnClickPendingIntent(R.id.chat_content_notify, pendingIntent);
+//                mRemoteViews.setOnClickPendingIntent(R.id.chat_name_notify, pendingIntent);
+//                mNotificationManager.notify(1, mBuilder.build());
+
+
+                mBuilder.setContentTitle(name);
+                mBuilder.setContentText(content);
+                mBuilder.setSmallIcon(R.mipmap.ic_launcher_round);
+                mBuilder.setContentIntent(pendingIntent);
+                Notification notification=mBuilder.getNotification();
+                notification.defaults=Notification.DEFAULT_ALL;
+                notification.flags=Notification.FLAG_AUTO_CANCEL;
+                mNotificationManager.notify(R.mipmap.ic_launcher,notification);
+
                 Log.d("MainActivity", "发送通知");
             }
 
