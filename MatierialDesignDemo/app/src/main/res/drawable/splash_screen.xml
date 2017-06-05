@@ -1,0 +1,12 @@
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@color/colorOrange"/>
+
+    <item>
+        <bitmap
+            android:gravity="fill"
+            android:src="@mipmap/timg"/>
+    </item>
+</layer-list>

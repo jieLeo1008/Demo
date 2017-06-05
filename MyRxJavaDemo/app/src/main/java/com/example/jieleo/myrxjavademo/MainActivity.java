@@ -1,5 +1,6 @@
 package com.example.jieleo.myrxjavademo;
 
+import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.drawable.Drawable;
@@ -26,7 +27,7 @@ import rx.schedulers.Schedulers;
 
 import static java.lang.Integer.valueOf;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity implements View.OnClickListener{
 
 
     public String[] names = new String[]{"张三", "李四", "王五", "赵六", "囊踹", "姜红", "司帅"};
@@ -40,6 +41,9 @@ public class MainActivity extends AppCompatActivity {
     private List<Student> students;
 
     private ProgressBar mProgressBar;
+
+
+    public static String url="http://api.meituan.com/meishi/filter/v5/deal/select/city/65/cate/1?sort=defaults&mypos=38.85469%2C121.524664&ci=65&hasGroup=true&mpt_cate1=-1&mpt_cate2=1&wifi-name=303%08jszxtestwifi%08iPhone%08%F0%9F%90%BA%E9%98%9F%E7%AC%AC%E5%85%AD%E4%BA%BA%08&wifi-mac=30%3Ab4%3A9e%3A62%3A1d%3A05%0836%3A69%3A68%3Aac%3A39%3Ad6%08b0%3Ad5%3A9d%3A10%3A20%3Aea%08a4%3Ad1%3A8c%3Aca%3A29%3A68%08&wifi-strength=-31%08-52%08-50%08-55%08&wifi-cur=0&offset=0&limit=25&client=android&__vhost=api.meishi.meituan.com&utm_source=yijia5&utm_medium=android&utm_term=502&version_name=8.0.2&utm_content=864854036212574&utm_campaign=AgroupBgroupC0D100E0Ghomepage_category1_1__a1__gfood&msid=8648540362125741495786124655&uuid=E5FE83D8D8F627C8F4A0276229F155572A9183C05869355156AAEDD92DB82EE8&userid=169689793&__reqTraceID=9db2784b-a25a-4be5-96ee-f512fb749388&__skck=6a375bce8c66a0dc293860dfa83833ef&__skts=1495786248551&__skua=7a9b34313957f5a6067b0b84d736a54e&__skno=895f49b0-ec0e-4ee6-b9ea-a1e4e78cedd1&__skcy=2p201l3VUsnvrJ7kK9f0fcTpWNM%3D";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -265,6 +269,8 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+
+
     }
 
 
@@ -277,6 +283,15 @@ public class MainActivity extends AppCompatActivity {
     private Bitmap getBitmapFromPath(String s) {
         Bitmap bitmap = BitmapFactory.decodeFile(s);
         return bitmap;
+    }
+
+    @Override
+    public void onClick(View v) {
+        switch (v.getId()) {
+            case R.id.btn_01:
+                startActivity(new Intent(this,RetrofitActivity.class));
+                break;
+        }
     }
 
 

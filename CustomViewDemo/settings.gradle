@@ -1,1 +1,1 @@
-include ':app', ':BGABadgeView'
+include ':app', ':BGABadgeView', ':lib'

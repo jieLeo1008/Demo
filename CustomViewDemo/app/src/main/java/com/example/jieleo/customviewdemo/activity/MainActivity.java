@@ -34,6 +34,18 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.text_input_layout:
                 startActivity(new Intent(this,TextInputLayoutActivity.class));
                 break;
+            case R.id.caipiao:
+                startActivity(new Intent(this,CaiPiaoActivity.class));
+                break;
+            case R.id.catulator:
+                startActivity(new Intent(this,CatulatorActivity.class));
+                break;
+            case R.id.awesome_qr_code:
+                startActivity(new Intent(this,QRCodeActivity.class));
+                break;
+            case R.id.dlt:
+                startActivity(new Intent(this,DLTActivity.class));
+                break;
         }
     }
 

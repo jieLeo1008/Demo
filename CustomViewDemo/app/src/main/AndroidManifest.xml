@@ -28,6 +28,14 @@
         </activity>
         <activity android:name=".activity.TextInputLayoutActivity">
         </activity>
+        <activity android:name=".activity.CaiPiaoActivity">
+        </activity>
+        <activity android:name=".activity.CatulatorActivity">
+        </activity>
+        <activity android:name=".activity.QRCodeActivity">
+        </activity>
+        <activity android:name=".activity.DLTActivity">
+        </activity>
     </application>
 
 </manifest>

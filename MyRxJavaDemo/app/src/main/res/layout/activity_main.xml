@@ -16,4 +16,11 @@
         android:id="@+id/pb_01"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/btn_01"
+        android:text="To_Retrofit"
+        android:textAllCaps="false"
+        android:onClick="onClick"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
 </LinearLayout>
