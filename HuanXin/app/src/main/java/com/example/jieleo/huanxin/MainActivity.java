@@ -21,6 +21,7 @@ import com.hyphenate.EMMessageListener;
 import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMMessage;
 import com.hyphenate.chat.EMTextMessageBody;
+import com.hyphenate.easeui.ui.EaseBaiduMapActivity;
 import com.hyphenate.exceptions.HyphenateException;
 
 import org.greenrobot.eventbus.EventBus;
@@ -301,6 +302,7 @@ public class MainActivity extends AppCompatActivity {
                 case "ChatOver":
                     sendNotificaton = true;
                     chatingName = "";
+
                     break;
             }
         }

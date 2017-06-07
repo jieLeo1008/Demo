@@ -1,18 +1,26 @@
 [
     {
-        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     }
 ]

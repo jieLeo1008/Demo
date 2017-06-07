@@ -1,218 +1,326 @@
 [
     {
-        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_in.xml",
-        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\push_top_in.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_in.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\push_top_in.xml"
     },
     {
-        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\anim\\abc_popup_enter.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/anim/abc_slide_in_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_right.xml",
-        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\slide_out_to_right.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/anim/push_bottom_in.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/anim/push_bottom_in.xml"
     },
     {
-        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\anim\\abc_fade_in.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_left.xml",
-        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\slide_in_from_left.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_right.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\slide_out_to_right.xml"
     },
     {
-        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_right.xml",
-        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\slide_in_from_right.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/anim/slide_in_from_left.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/anim/slide_in_from_left.xml"
     },
     {
-        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\anim\\abc_popup_exit.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out.xml",
-        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\push_top_out.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\head_in.xml",
-        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\head_in.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/anim/push_top_out2.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/anim/push_top_out2.xml"
     },
     {
-        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out2.xml",
-        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\push_top_out2.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_left.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\slide_in_from_left.xml"
     },
     {
-        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/anim/abc_slide_in_top.xml"
     },
     {
-        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\anim\\abc_fade_out.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_right.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\slide_in_from_right.xml"
     },
     {
-        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_left.xml",
-        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\slide_out_to_left.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/anim/slide_out_to_right.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/anim/slide_out_to_right.xml"
     },
     {
-        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_in2.xml",
-        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\push_top_in2.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\push_top_out.xml"
     },
     {
-        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\head_out.xml",
-        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\head_out.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\head_in.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\head_in.xml"
     },
     {
-        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out.xml",
-        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\push_top_out.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out2.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\push_top_out2.xml"
     },
     {
-        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\head_out.xml",
-        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\head_out.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/anim/abc_popup_enter.xml"
     },
     {
-        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out2.xml",
-        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\push_top_out2.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_left.xml",
-        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\slide_out_to_left.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_left.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\slide_out_to_left.xml"
     },
     {
-        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\anim\\abc_slide_out_bottom.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\voice_from_icon.xml",
-        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\voice_from_icon.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/anim/head_out.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/anim/head_out.xml"
     },
     {
-        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
-        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\push_bottom_in.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_left.xml",
-        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\slide_in_from_left.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_in2.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\push_top_in2.xml"
     },
     {
-        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\head_in.xml",
-        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\head_in.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\head_out.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\head_out.xml"
     },
     {
-        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
-        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\push_bottom_in.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/anim/push_top_in2.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/anim/push_top_in2.xml"
     },
     {
-        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
-        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\fade_out.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/anim/abc_popup_exit.xml"
     },
     {
-        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\anim\\abc_popup_enter.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\push_top_out.xml"
     },
     {
-        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
-        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\push_bottom_out.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/anim/fade_out.xml"
     },
     {
-        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/anim/push_top_in.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/anim/push_top_in.xml"
     },
     {
-        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
-        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\fade_in.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\head_out.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\head_out.xml"
     },
     {
-        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_right.xml",
-        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\slide_in_from_right.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out2.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\push_top_out2.xml"
     },
     {
-        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_left.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\slide_out_to_left.xml"
     },
     {
-        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
-        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\fade_out.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\voice_from_icon.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\voice_from_icon.xml"
     },
     {
-        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_in2.xml",
-        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\push_top_in2.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/anim/abc_slide_out_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\hold.xml",
-        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\hold.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\push_bottom_in.xml"
     },
     {
-        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\hold.xml",
-        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\hold.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_left.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\slide_in_from_left.xml"
     },
     {
-        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\voice_to_icon.xml",
-        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\voice_to_icon.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/anim/push_bottom_out.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/anim/push_bottom_out.xml"
     },
     {
-        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\head_in.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\head_in.xml"
     },
     {
-        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
-        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\fade_in.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\push_bottom_in.xml"
     },
     {
-        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\anim\\abc_slide_out_bottom.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\fade_out.xml"
     },
     {
-        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\anim\\abc_popup_exit.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/anim/hold.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/anim/hold.xml"
     },
     {
-        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\voice_to_icon.xml",
-        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\voice_to_icon.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\push_bottom_out.xml"
     },
     {
-        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\anim\\abc_fade_out.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
-        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\push_bottom_out.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/anim/voice_from_icon.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/anim/voice_from_icon.xml"
     },
     {
-        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\anim\\abc_fade_in.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\fade_in.xml"
     },
     {
-        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\voice_from_icon.xml",
-        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\voice_from_icon.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/anim/abc_slide_out_top.xml"
     },
     {
-        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/anim/slide_in_from_right.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/anim/slide_in_from_right.xml"
     },
     {
-        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/anim/fade_in.xml"
     },
     {
-        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_in.xml",
-        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\push_top_in.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_right.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\slide_in_from_right.xml"
     },
     {
-        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_right.xml",
-        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\slide_out_to_right.xml"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/anim/push_top_out.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/anim/push_top_out.xml"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_in2.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\push_top_in2.xml"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\hold.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\hold.xml"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\hold.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\hold.xml"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\voice_to_icon.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\voice_to_icon.xml"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/anim/voice_to_icon.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/anim/voice_to_icon.xml"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\voice_to_icon.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\voice_to_icon.xml"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/anim/slide_out_to_left.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/anim/slide_out_to_left.xml"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/anim/head_in.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/anim/head_in.xml"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\voice_from_icon.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\voice_from_icon.xml"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_in.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\push_top_in.xml"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_right.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\anim\\slide_out_to_right.xml"
     }
 ]
