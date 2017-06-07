@@ -1,14 +1,26 @@
 [
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_action_bar_item_background_material.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/drawable-v21/abc_btn_colored_material.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_edit_text_material.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/drawable-v21/abc_edit_text_material.xml"
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     }
 ]

@@ -51,25 +51,25 @@ public class MainActivity extends AppCompatActivity {
         //初始化接口对象
         MyService myService =retrofit.create(MyService.class);
 
-//        Observable<Bean>  observable =myService.getData(url);
-//        observable.observeOn(AndroidSchedulers.mainThread()).subscribeOn(Schedulers.io()).subscribe(new Subscriber<Bean>() {
-//            @Override
-//            public void onCompleted() {
-//
-//            }
-//
-//            @Override
-//            public void onError(Throwable e) {
-//
-//            }
-//
-//            @Override
-//            public void onNext(Bean bean) {
-//                for (Bean.PostsBean postsBean:bean.getPosts()) {
-//                    Log.d("MainActivity", "postsBean.getAnonymous():" + postsBean.getText_content());
-//                }
-//            }
-//        });
+        Observable<Bean>  observable =myService.getData(url);
+        observable.observeOn(AndroidSchedulers.mainThread()).subscribeOn(Schedulers.io()).subscribe(new Subscriber<Bean>() {
+            @Override
+            public void onCompleted() {
+
+            }
+
+            @Override
+            public void onError(Throwable e) {
+
+            }
+
+            @Override
+            public void onNext(Bean bean) {
+                for (Bean.PostsBean postsBean:bean.getPosts()) {
+                    Log.d("MainActivity", "postsBean.getAnonymous():" + postsBean.getText_content());
+                }
+            }
+        });
 
 
         /**

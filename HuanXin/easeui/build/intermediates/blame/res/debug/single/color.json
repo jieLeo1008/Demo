@@ -1,38 +1,74 @@
 [
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/color/abc_secondary_text_material_dark.xml"
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/color/abc_search_url_text.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/color/switch_thumb_material_light.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/color/abc_primary_text_material_dark.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/color/abc_secondary_text_material_light.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/color/abc_primary_text_material_light.xml"
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/color/switch_thumb_material_dark.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/color/abc_primary_text_disable_only_material_light.xml"
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     }
 ]

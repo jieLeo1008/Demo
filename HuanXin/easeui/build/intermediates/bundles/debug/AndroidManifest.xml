@@ -13,7 +13,7 @@
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application>
-        <activity android:name="com.hyphenate.easeui.ui.TestActivity" >
+        <activity android:name="com.hyphenate.easeui.ui.Test1Activity" >
         </activity>
     </application>
 
