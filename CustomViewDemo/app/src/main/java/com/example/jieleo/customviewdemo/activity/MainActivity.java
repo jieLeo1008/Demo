@@ -46,6 +46,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.dlt:
                 startActivity(new Intent(this,DLTActivity.class));
                 break;
+            case R.id.bitmap_size:
+                startActivity(new Intent(this,CatulatorBitmapActivity.class));
+                break;
         }
     }
 
