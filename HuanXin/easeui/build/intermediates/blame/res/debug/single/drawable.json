@@ -1,210 +1,418 @@
 [
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/ease_chat_press_speak_btn.xml",
-        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/drawable/ease_chat_press_speak_btn.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatting_setmode_voice_btn.xml",
+        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_chatting_setmode_voice_btn.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/drawable/abc_list_selector_holo_light.xml"
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/drawable/abc_ratingbar_full_material.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/drawable/abc_spinner_textfield_background_material.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/ease_chatfrom_bg.xml",
-        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/drawable/ease_chatfrom_bg.xml"
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_blue_selector.xml",
+        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_btn_blue_selector.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/ease_btn_cancel_normal_shape.xml",
-        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/drawable/ease_btn_cancel_normal_shape.xml"
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/drawable/abc_item_background_holo_dark.xml"
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatting_setmode_voice_btn.xml",
+        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_chatting_setmode_voice_btn.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/ease_timestampe_bg.xml",
-        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/drawable/ease_timestampe_bg.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_send_btn_selector.xml",
+        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_chat_send_btn_selector.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/drawable/abc_switch_thumb_material.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_sidebar_background_pressed.xml",
+        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_sidebar_background_pressed.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/drawable/abc_textfield_search_material.xml"
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatfrom_bg.xml",
+        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_chatfrom_bg.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/ease_edit_text_bg.xml",
-        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/drawable/ease_edit_text_bg.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_blue_normal_shape.xml",
+        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_btn_blue_normal_shape.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/ease_chatting_setmode_keyboard_btn.xml",
-        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/drawable/ease_chatting_setmode_keyboard_btn.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_recording_text_hint_bg.xml",
+        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_recording_text_hint_bg.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/drawable/abc_btn_colored_material.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_type_select_btn.xml",
+        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_type_select_btn.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/drawable/abc_btn_radio_material.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/drawable/abc_seekbar_track_material.xml"
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_cancel_normal_shape.xml",
+        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_btn_cancel_normal_shape.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/drawable/abc_dialog_material_background_light.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_mm_listitem_grey.xml",
+        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_mm_listitem_grey.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/ease_chatto_bg.xml",
-        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/drawable/ease_chatto_bg.xml"
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/ease_mm_listitem.xml",
-        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/drawable/ease_mm_listitem.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_blue_selector.xml",
+        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_btn_blue_selector.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/ease_search_clear.xml",
-        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/drawable/ease_search_clear.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatto_bg.xml",
+        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_chatto_bg.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/drawable/abc_ratingbar_small_material.xml"
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/drawable/abc_dialog_material_background_dark.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/drawable/abc_btn_check_material.xml"
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_mm_listitem.xml",
+        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_mm_listitem.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/ease_btn_blue_selector.xml",
-        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/drawable/ease_btn_blue_selector.xml"
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/drawable/abc_cab_background_internal_bg.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/ease_chat_takepic_selector.xml",
-        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/drawable/ease_chat_takepic_selector.xml"
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_type_select_btn.xml",
+        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_type_select_btn.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/drawable/abc_cab_background_top_material.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatfrom_bg.xml",
+        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_chatfrom_bg.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/drawable/abc_edit_text_material.xml"
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_takepic_selector.xml",
+        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_chat_takepic_selector.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/ease_msg_state_failed_resend.xml",
-        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/drawable/ease_msg_state_failed_resend.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_cancel_normal_shape.xml",
+        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_btn_cancel_normal_shape.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/ease_btn_cancel_pressed_shape.xml",
-        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/drawable/ease_btn_cancel_pressed_shape.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/ease_btn_cancel_bj.xml",
-        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/drawable/ease_btn_cancel_bj.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/ease_common_tab_bg.xml",
-        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/drawable/ease_common_tab_bg.xml"
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/ease_chat_send_btn_selector.xml",
-        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/drawable/ease_chat_send_btn_selector.xml"
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_cancel_pressed_shape.xml",
+        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_btn_cancel_pressed_shape.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/ease_btn_blue_normal_shape.xml",
-        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/drawable/ease_btn_blue_normal_shape.xml"
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/drawable/abc_seekbar_thumb_material.xml"
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/ease_type_select_btn.xml",
-        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/drawable/ease_type_select_btn.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_common_tab_bg.xml",
+        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_common_tab_bg.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/ease_recording_text_hint_bg.xml",
-        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/drawable/ease_recording_text_hint_bg.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_mm_listitem.xml",
+        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_mm_listitem.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/ease_recording_hint_bg.xml",
-        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/drawable/ease_recording_hint_bg.xml"
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/ease_sidebar_background_pressed.xml",
-        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/drawable/ease_sidebar_background_pressed.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_blue_pressed_shape.xml",
+        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_btn_blue_pressed_shape.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/drawable/abc_ratingbar_indicator_material.xml"
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/drawable/abc_text_cursor_material.xml"
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatting_setmode_keyboard_btn.xml",
+        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_chatting_setmode_keyboard_btn.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/ease_chat_location_selector.xml",
-        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/drawable/ease_chat_location_selector.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_msg_state_failed_resend.xml",
+        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_msg_state_failed_resend.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_location_selector.xml",
+        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_chat_location_selector.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/ease_mm_listitem_grey.xml",
-        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/drawable/ease_mm_listitem_grey.xml"
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_cancel_bj.xml",
+        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_btn_cancel_bj.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/jieleo/.android/build-cache/98bdb645f9652fd5f7d783348f0e8ee6690549cf/output/res/drawable/abc_item_background_holo_light.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/ease_btn_blue_pressed_shape.xml",
-        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/drawable/ease_btn_blue_pressed_shape.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_takepic_selector.xml",
+        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_chat_takepic_selector.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/ease_chatting_setmode_voice_btn.xml",
-        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/drawable/ease_chatting_setmode_voice_btn.xml"
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_mm_listitem_grey.xml",
+        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_mm_listitem_grey.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/build/intermediates/res/merged/debug/drawable/ease_chat_image_selector.xml",
-        "source": "/Users/jieleo/Desktop/GitSpace/Demo/HuanXin/easeui/res/drawable/ease_chat_image_selector.xml"
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatting_setmode_keyboard_btn.xml",
+        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_chatting_setmode_keyboard_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_recording_hint_bg.xml",
+        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_recording_hint_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_image_selector.xml",
+        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_chat_image_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_image_selector.xml",
+        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_chat_image_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_timestampe_bg.xml",
+        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_timestampe_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_blue_normal_shape.xml",
+        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_btn_blue_normal_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_common_tab_bg.xml",
+        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_common_tab_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_press_speak_btn.xml",
+        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_chat_press_speak_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_search_clear.xml",
+        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_search_clear.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_timestampe_bg.xml",
+        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_timestampe_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_search_clear.xml",
+        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_search_clear.xml"
+    },
+    {
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_edit_text_bg.xml",
+        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_edit_text_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_send_btn_selector.xml",
+        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_chat_send_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_edit_text_bg.xml",
+        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_edit_text_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_blue_pressed_shape.xml",
+        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_btn_blue_pressed_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_press_speak_btn.xml",
+        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_chat_press_speak_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_cancel_bj.xml",
+        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_btn_cancel_bj.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_sidebar_background_pressed.xml",
+        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_sidebar_background_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_msg_state_failed_resend.xml",
+        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_msg_state_failed_resend.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatto_bg.xml",
+        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_chatto_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_recording_text_hint_bg.xml",
+        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_recording_text_hint_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_cancel_pressed_shape.xml",
+        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_btn_cancel_pressed_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_location_selector.xml",
+        "source": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_chat_location_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\yongjie\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\yongjie\\.android\\build-cache\\c7f33cc397eb5cb6b67d1bcfb241aff9ecf50f81\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\jieleo\\.android\\build-cache\\98bdb645f9652fd5f7d783348f0e8ee6690549cf\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_recording_hint_bg.xml",
+        "source": "C:\\Users\\jieleo\\Desktop\\GitSpace\\Demo\\HuanXin\\easeui\\res\\drawable\\ease_recording_hint_bg.xml"
     }
 ]
