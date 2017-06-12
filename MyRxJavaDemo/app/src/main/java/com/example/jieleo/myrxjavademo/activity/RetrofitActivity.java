@@ -1,8 +1,13 @@
-package com.example.jieleo.myrxjavademo;
+package com.example.jieleo.myrxjavademo.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
+
+import com.example.jieleo.myrxjavademo.MovieBean;
+import com.example.jieleo.myrxjavademo.MovieService;
+import com.example.jieleo.myrxjavademo.R;
+import com.example.jieleo.myrxjavademo.RetrofitTool;
 
 import retrofit2.Call;
 import retrofit2.Callback;
@@ -19,7 +24,7 @@ public class RetrofitActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_retrofit);
-        mMovieService=RetrofitTool.getInstance().mRetrofit.create(MovieService.class);
+        mMovieService= RetrofitTool.getInstance().mRetrofit.create(MovieService.class);
 
         mMovieService.getTopMovieR(0,10)
                 .subscribeOn(Schedulers.io())
@@ -27,7 +32,7 @@ public class RetrofitActivity extends AppCompatActivity {
                 .subscribe(new Subscriber<MovieBean>() {
                     @Override
                     public void onCompleted() {
-
+                        Log.d("RetrofitActivity", "onCompleted");
                     }
 
                     @Override
