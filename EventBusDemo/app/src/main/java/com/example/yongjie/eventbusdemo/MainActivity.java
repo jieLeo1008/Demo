@@ -8,6 +8,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
+import com.example.yongjie.eventbusdemo.coon.ConnActivity;
 import com.example.yongjie.eventbusdemo.login.LoginActivity;
 
 import de.greenrobot.event.EventBus;
@@ -44,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void toSecond(View view){
-        startActivity(new Intent(this,LoginActivity.class));
+        startActivity(new Intent(this,ConnActivity.class));
     }
 
 

@@ -1,9 +1,8 @@
-package com.example.jieleo.myrxjavademo;
+package com.example.jieleo.myrxjavademo.activity;
 
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
-import android.graphics.drawable.Drawable;
 import android.os.Environment;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -11,13 +10,15 @@ import android.util.Log;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.ProgressBar;
-import android.widget.Toast;
+
+import com.example.jieleo.myrxjavademo.R;
 
 import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.Date;
 import java.util.List;
 
 import rx.Observable;
-import rx.Observer;
 import rx.Subscriber;
 import rx.android.schedulers.AndroidSchedulers;
 import rx.functions.Action0;
@@ -289,7 +290,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public void onClick(View v) {
         switch (v.getId()) {
             case R.id.btn_01:
-                startActivity(new Intent(this,RetrofitActivity.class));
+                startActivity(new Intent(this,PracticeRxJavaActivity.class));
                 break;
         }
     }
@@ -298,6 +299,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public static class Student {
         private String name;
         private List<Course> course;
+
 
         public String getName() {
             return name;
@@ -329,6 +331,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 return this;
             }
         }
+
+
 
     }
 }
