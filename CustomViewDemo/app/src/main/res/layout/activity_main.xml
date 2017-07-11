@@ -71,4 +71,10 @@
         android:onClick="onClick"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/immersive"
+        android:text="沉浸式状态栏"
+        android:onClick="onClick"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
 </LinearLayout>

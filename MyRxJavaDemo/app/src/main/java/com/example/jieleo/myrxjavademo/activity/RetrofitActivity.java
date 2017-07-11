@@ -24,11 +24,11 @@ public class RetrofitActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_retrofit);
-        mMovieService= RetrofitTool.getInstance().mRetrofit.create(MovieService.class);
+        mMovieService= RetrofitTool.getInstance().
+                mRetrofit
+                .create(MovieService.class);
 
-        mMovieService.getTopMovieR(0,10)
-                .subscribeOn(Schedulers.io())
-                .observeOn(AndroidSchedulers.mainThread())
+        mMovieService.getTopMovieR(0,10).subscribeOn(Schedulers.io()).observeOn(AndroidSchedulers.mainThread())
                 .subscribe(new Subscriber<MovieBean>() {
                     @Override
                     public void onCompleted() {

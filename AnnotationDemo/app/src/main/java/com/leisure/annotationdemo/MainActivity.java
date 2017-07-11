@@ -5,15 +5,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
-/**
- *  @硕哥告诉你
- *  2017/4/6上午9:27
- *  本demo首先从MyContentView这个类开始看,然后再看另外两个自定义的注解
- *  再看我的ViewTool
- *  最后再来看MainActivity
- *  ViewTool的这个类涉及到了我所讲过的反射,我知道你们肯定忘了,所以再自己看一看我那天讲的东西
- *  我使用自定义注解的方式实现了ButterKnife的效果  不要问我什么是ButterKnife,我讲过!!!!!
- */
+
+
 @MyContentView(R.layout.activity_main)
 
 public class MainActivity extends AppCompatActivity {

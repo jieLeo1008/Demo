@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.jieleo.tileoverlydemo.activity.AnotherMapActivity">
+
+    <RelativeLayout
+        android:id="@+id/ll_01"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:id="@+id/iv_01"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="500dp">
+            <Button
+                android:id="@+id/btn_02"
+                android:text="哈哈哈"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+            <ImageView
+                android:src="@drawable/timg"
+                android:scaleType="fitXY"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+        </LinearLayout>
+
+
+        <com.baidu.mapapi.map.TextureMapView
+            android:id="@+id/map_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </com.baidu.mapapi.map.TextureMapView>
+
+    </RelativeLayout>
+
+
+    <Button
+        android:id="@+id/btn_01"
+        android:layout_marginTop="200dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</RelativeLayout>
