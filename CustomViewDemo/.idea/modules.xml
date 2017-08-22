@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BGABadgeView/BGABadgeView.iml" filepath="$PROJECT_DIR$/BGABadgeView/BGABadgeView.iml" />
       <module fileurl="file://$PROJECT_DIR$/CustomViewDemo.iml" filepath="$PROJECT_DIR$/CustomViewDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adressselectorlib/adressselectorlib.iml" filepath="$PROJECT_DIR$/adressselectorlib/adressselectorlib.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib/lib.iml" filepath="$PROJECT_DIR$/lib/lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matisse/matisse.iml" filepath="$PROJECT_DIR$/matisse/matisse.iml" />
     </modules>
   </component>
 </project>

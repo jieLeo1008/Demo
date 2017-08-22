@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
     @PermissionSuccess(requestCode = 100)
     public void requestPermissionSuccess(){
         Toast.makeText(this, "申请成功", Toast.LENGTH_SHORT).show();
-        startActivity(new Intent(this,FragemntAvtivity.class));
+        startActivity(new Intent(this,FirstLocoActivity.class));
     }
 
     @PermissionFailed(requestCode = 100)

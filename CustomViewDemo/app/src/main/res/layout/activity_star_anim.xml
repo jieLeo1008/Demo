@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.jieleo.customviewdemo.activity.StarAnimActivity">
+
+    <ImageView
+        android:id="@+id/iv_01"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@mipmap/elephant"
+        android:layout_centerInParent="true"
+        />
+
+    <ImageView
+        android:id="@+id/iv_02"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@mipmap/horse"
+        android:layout_centerInParent="true"
+        />
+
+    <ImageView
+        android:id="@+id/iv_03"
+        android:src="@mipmap/angel"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_centerInParent="true"
+        />
+
+    <ImageView
+        android:id="@+id/iv_04"
+        android:src="@mipmap/chicken"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_centerInParent="true"
+        />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fla_btn"
+        android:layout_width="60dp"
+        android:layout_centerInParent="true"
+        android:layout_height="60dp"/>
+
+</RelativeLayout>
