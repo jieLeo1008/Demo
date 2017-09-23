@@ -1,5 +1,6 @@
 package com.example.jieleo.customviewdemo;
 
+import android.app.Activity;
 import android.app.ActivityManager;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -12,23 +13,30 @@ import com.example.jieleo.customviewdemo.activity.AddressSelectorActivity;
 import com.example.jieleo.customviewdemo.activity.BlueToothActivity;
 import com.example.jieleo.customviewdemo.activity.BottomSheetActivity;
 import com.example.jieleo.customviewdemo.activity.CaiPiaoActivity;
+import com.example.jieleo.customviewdemo.activity.CameraAndCropActivity;
 import com.example.jieleo.customviewdemo.activity.CatulatorActivity;
 import com.example.jieleo.customviewdemo.activity.DLTActivity;
 import com.example.jieleo.customviewdemo.activity.DownloadActivity;
+import com.example.jieleo.customviewdemo.activity.GetRunningProcessActivity;
 import com.example.jieleo.customviewdemo.activity.IdCardActivity;
 import com.example.jieleo.customviewdemo.activity.ImmersiveActivity;
 import com.example.jieleo.customviewdemo.activity.ItemDecorationActivity;
+import com.example.jieleo.customviewdemo.activity.MaterialDesignActivity;
 import com.example.jieleo.customviewdemo.activity.MyItemActivity;
 import com.example.jieleo.customviewdemo.activity.MyNotificationActivity;
 import com.example.jieleo.customviewdemo.activity.ObjectAnimatorActivity;
+import com.example.jieleo.customviewdemo.activity.PermissionCheckActivity;
+import com.example.jieleo.customviewdemo.activity.RefreshActivity;
 import com.example.jieleo.customviewdemo.activity.ScratchImageViewActivity;
 import com.example.jieleo.customviewdemo.activity.ServerActivity;
 import com.example.jieleo.customviewdemo.activity.SetDetailsActivity;
 import com.example.jieleo.customviewdemo.activity.ShortCutsActivity;
+import com.example.jieleo.customviewdemo.activity.SimpleRecyclerActivity;
 import com.example.jieleo.customviewdemo.activity.StarAnimActivity;
 import com.example.jieleo.customviewdemo.activity.SwipeDelActivity;
 import com.example.jieleo.customviewdemo.activity.TextInputLayoutActivity;
 import com.example.jieleo.customviewdemo.activity.ToBrowseActivity;
+import com.example.jieleo.customviewdemo.activity.TouchEventActivity;
 import com.example.jieleo.customviewdemo.activity.UltraViewPagerActivity;
 import com.example.jieleo.customviewdemo.activity.ZhiHuMatisseActivity;
 
@@ -121,6 +129,27 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.start_anim:
                 startActivity(new Intent(this, StarAnimActivity.class));
                 break;
+            case R.id.get_process:
+                startActivity(new Intent(this, GetRunningProcessActivity.class));
+                break;
+            case R.id.material_design:
+                startActivity(new Intent(this, MaterialDesignActivity.class));
+                break;
+            case R.id.permission_check:
+                toActivity(PermissionCheckActivity.class);
+                break;
+            case R.id.swipe_refresh:
+                toActivity(RefreshActivity.class);
+                break;
+            case R.id.touch_event:
+                toActivity(TouchEventActivity.class);
+                break;
+            case R.id.take_photo:
+                toActivity(CameraAndCropActivity.class);
+                break;
+            case R.id.simple_rv:
+                toActivity(SimpleRecyclerActivity.class);
+                break;
 
 
         }
@@ -128,5 +157,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
 
     }
+
+
+    private void toActivity(Class<?> tClass){
+        startActivity(new Intent(this,tClass));
+    }
+
 
 }

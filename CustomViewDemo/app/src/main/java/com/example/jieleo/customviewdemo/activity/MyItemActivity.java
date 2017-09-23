@@ -24,7 +24,7 @@ public class MyItemActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_my_item);
         mRecyclerView = (RecyclerView) findViewById(R.id.rv_01);
-        mTextView = (TextView) findViewById(R.id.tv_01);
+        mTextView = (TextView) findViewById(R.id.tv_001);
         mMyRvAdaptyer=new MyRvAdaptyer(this);
         mLinearLayoutManager = new LinearLayoutManager(this,LinearLayoutManager.VERTICAL,false);
         mRecyclerView.setLayoutManager(mLinearLayoutManager);

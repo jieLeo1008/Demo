@@ -12,6 +12,7 @@ import android.os.Message;
 import android.support.annotation.IntDef;
 import android.support.annotation.Nullable;
 import android.util.Log;
+import android.widget.Toast;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -28,15 +29,16 @@ public class SyncService extends Service {
     /**
      * handler延时处理
      */
-    Handler mHandler = new Handler(new Handler.Callback() {
-        @Override
-        public boolean handleMessage(Message msg) {
-            Bundle bundle = msg.getData();
+    Handler mHandler = new Handler(msg -> {
+        Bundle bundle = msg.getData();
 
-            Log.d("SyncService", bundle.getInt("xx", 10) + "");
+        Log.d("SyncService", bundle.getInt("xx", 10) + "");
 
-            return false;
+        if (msg.what==100){
+            Toast.makeText(SyncService.this, "系统已开机", Toast.LENGTH_SHORT).show();
         }
+
+        return false;
     });
 
     @Override
@@ -92,6 +94,8 @@ public class SyncService extends Service {
                 case "cancel":
 
                     break;
+                default:
+                    mHandler.sendEmptyMessageDelayed(100,5000);
             }
 
 

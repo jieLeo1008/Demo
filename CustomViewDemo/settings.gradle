@@ -1,1 +1,1 @@
-include ':app', ':lib', ':adressselectorlib', ':matisse'
+include ':app', ':lib', ':adressselectorlib', ':matisse', ':kefu-easeui'

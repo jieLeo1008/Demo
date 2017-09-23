@@ -9,7 +9,6 @@ import android.content.pm.PackageManager;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.widget.Button;
 import android.widget.TextView;
 
 import com.example.jieleo.customviewdemo.R;
@@ -24,7 +23,7 @@ public class BlueToothActivity extends AppCompatActivity {
 
     BluetoothGatt mBluetoothGatt;
 
-    @InjectView(R.id.tv_01)
+    @InjectView(R.id.tv_001)
     TextView mTv01;
 
 

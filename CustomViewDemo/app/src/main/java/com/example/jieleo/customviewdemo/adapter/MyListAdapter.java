@@ -1,15 +1,12 @@
 package com.example.jieleo.customviewdemo.adapter;
 
-import android.animation.ObjectAnimator;
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
-import android.view.animation.Transformation;
 import android.widget.BaseAdapter;
-import android.widget.ListView;
 import android.widget.TextView;
 
 import com.example.jieleo.customviewdemo.R;
@@ -84,7 +81,7 @@ public class MyListAdapter extends BaseAdapter {
 
             mView = view;
 
-            info = (TextView) view.findViewById(R.id.tv_01);
+            info = (TextView) view.findViewById(R.id.tv_001);
 
         }
     }

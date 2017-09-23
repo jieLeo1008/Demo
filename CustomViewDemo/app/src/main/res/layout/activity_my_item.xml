@@ -8,7 +8,7 @@
     tools:context="com.example.jieleo.customviewdemo.activity.MyItemActivity">
 
     <TextView
-        android:id="@+id/tv_01"
+        android:id="@+id/tv_001"
         android:layout_width="match_parent"
         android:layout_height="15dp"/>
 

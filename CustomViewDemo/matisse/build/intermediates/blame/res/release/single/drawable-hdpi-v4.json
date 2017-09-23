@@ -8,12 +8,12 @@
         "source": "/Users/jieleo/.android/build-cache/c668fce434984077051323a3b658bfe975e41257/output/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/CustomViewDemo/matisse/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_star_black_36dp.png",
-        "source": "/Users/jieleo/.android/build-cache/c668fce434984077051323a3b658bfe975e41257/output/res/drawable-hdpi-v4/abc_ic_star_black_36dp.png"
-    },
-    {
         "merged": "/Users/jieleo/Desktop/GitSpace/Demo/CustomViewDemo/matisse/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
         "source": "/Users/jieleo/.android/build-cache/c668fce434984077051323a3b658bfe975e41257/output/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/CustomViewDemo/matisse/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "/Users/jieleo/.android/build-cache/c668fce434984077051323a3b658bfe975e41257/output/res/drawable-hdpi-v4/abc_ic_star_black_36dp.png"
     },
     {
         "merged": "/Users/jieleo/Desktop/GitSpace/Demo/CustomViewDemo/matisse/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png",

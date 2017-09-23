@@ -2,7 +2,6 @@ package com.example.jieleo.customviewdemo.activity;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -80,7 +79,7 @@ public class MyRvAdaptyer extends RecyclerView.Adapter<RecyclerView.ViewHolder> 
 
         public MyHolder(View itemView) {
             super(itemView);
-            mTextView = (TextView) itemView.findViewById(R.id.tv_01);
+            mTextView = (TextView) itemView.findViewById(R.id.tv_001);
             mImageView= (ImageView) itemView.findViewById(R.id.iv_01);
         }
     }

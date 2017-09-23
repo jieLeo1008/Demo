@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/MySimpleDemo/zXing/build/intermediates/res/merged/debug/menu/encode.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/MySimpleDemo/zXing/src/main/res/menu/encode.xml"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/MySimpleDemo/zXing/build/intermediates/res/merged/debug/menu/history.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/MySimpleDemo/zXing/src/main/res/menu/history.xml"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/MySimpleDemo/zXing/build/intermediates/res/merged/debug/menu/capture.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/MySimpleDemo/zXing/src/main/res/menu/capture.xml"
+    }
+]

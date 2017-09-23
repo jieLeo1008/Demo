@@ -1,27 +1,23 @@
 [
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/CustomViewDemo/matisse/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
-        "source": "/Users/jieleo/.android/build-cache/c668fce434984077051323a3b658bfe975e41257/output/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
-    },
-    {
         "merged": "/Users/jieleo/Desktop/GitSpace/Demo/CustomViewDemo/matisse/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
         "source": "/Users/jieleo/.android/build-cache/c668fce434984077051323a3b658bfe975e41257/output/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/CustomViewDemo/matisse/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/jieleo/.android/build-cache/c668fce434984077051323a3b658bfe975e41257/output/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
         "merged": "/Users/jieleo/Desktop/GitSpace/Demo/CustomViewDemo/matisse/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/ic_photo_camera_white_24dp.png",
         "source": "/Users/jieleo/Desktop/GitSpace/Demo/CustomViewDemo/matisse/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/ic_photo_camera_white_24dp.png"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/CustomViewDemo/matisse/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "/Users/jieleo/.android/build-cache/c668fce434984077051323a3b658bfe975e41257/output/res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
         "merged": "/Users/jieleo/Desktop/GitSpace/Demo/CustomViewDemo/matisse/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
         "source": "/Users/jieleo/.android/build-cache/c668fce434984077051323a3b658bfe975e41257/output/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/CustomViewDemo/matisse/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/ic_empty_dracula.png",
-        "source": "/Users/jieleo/Desktop/GitSpace/Demo/CustomViewDemo/matisse/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/ic_empty_dracula.png"
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/CustomViewDemo/matisse/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/jieleo/.android/build-cache/c668fce434984077051323a3b658bfe975e41257/output/res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
         "merged": "/Users/jieleo/Desktop/GitSpace/Demo/CustomViewDemo/matisse/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/ic_empty_zhihu.png",
@@ -30,6 +26,10 @@
     {
         "merged": "/Users/jieleo/Desktop/GitSpace/Demo/CustomViewDemo/matisse/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
         "source": "/Users/jieleo/.android/build-cache/c668fce434984077051323a3b658bfe975e41257/output/res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/CustomViewDemo/matisse/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/ic_empty_dracula.png",
+        "source": "/Users/jieleo/Desktop/GitSpace/Demo/CustomViewDemo/matisse/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/ic_empty_dracula.png"
     },
     {
         "merged": "/Users/jieleo/Desktop/GitSpace/Demo/CustomViewDemo/matisse/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/ic_check_white_18dp.png",

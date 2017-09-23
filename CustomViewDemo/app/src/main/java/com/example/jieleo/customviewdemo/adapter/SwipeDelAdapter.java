@@ -10,7 +10,6 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.example.jieleo.customviewdemo.R;
-import com.mcxtzhang.swipemenulib.SwipeMenuLayout;
 
 /**
  * Created by YongJie on 2017/8/15.
@@ -67,7 +66,7 @@ public class SwipeDelAdapter extends  RecyclerView.Adapter<SwipeDelAdapter.Swipe
 
         public SwipeDelVH(View itemView) {
             super(itemView);
-            content = (TextView) itemView.findViewById(R.id.tv_01);
+            content = (TextView) itemView.findViewById(R.id.tv_001);
             toTop = (Button) itemView.findViewById(R.id.btn_01);
             delete= (Button) itemView.findViewById(R.id.btn_02);
         }

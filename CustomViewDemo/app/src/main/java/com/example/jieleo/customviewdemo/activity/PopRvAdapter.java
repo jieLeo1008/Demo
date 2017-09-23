@@ -54,7 +54,7 @@ public class PopRvAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> 
         TextView mTextView;
         public MyHolder(View itemView) {
             super(itemView);
-            mTextView = (TextView) itemView.findViewById(R.id.tv_01);
+            mTextView = (TextView) itemView.findViewById(R.id.tv_001);
         }
     }
 }

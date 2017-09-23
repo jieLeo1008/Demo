@@ -36,7 +36,7 @@ public class UltraPagerAdapter extends PagerAdapter {
     public Object instantiateItem(ViewGroup container, int position) {
         LinearLayout linearLayout = (LinearLayout) LayoutInflater.from(container.getContext()).inflate(R.layout.item_ultra_view_pager,null);
 
-        TextView textView = (TextView) linearLayout.findViewById(R.id.tv_01);
+        TextView textView = (TextView) linearLayout.findViewById(R.id.tv_001);
 
         textView.setText(position+"");
 

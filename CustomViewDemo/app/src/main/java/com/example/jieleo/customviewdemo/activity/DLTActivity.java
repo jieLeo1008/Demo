@@ -1,30 +1,24 @@
 package com.example.jieleo.customviewdemo.activity;
 
 import android.annotation.TargetApi;
-import android.content.Context;
 import android.os.Build;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.ListPopupWindow;
-import android.support.v7.widget.RecyclerView;
 import android.text.InputType;
 import android.util.Log;
 import android.view.Gravity;
-import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.PopupWindow;
 import android.widget.TextView;
 import android.widget.Toast;
 
 import com.example.jieleo.customviewdemo.R;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -37,7 +31,7 @@ import butterknife.OnClick;
 public class DLTActivity extends AppCompatActivity implements AdapterView.OnItemClickListener {
 
 
-    @InjectView(R.id.tv_01)
+    @InjectView(R.id.tv_001)
     TextView mTv01;
     @InjectView(R.id.edt_01)
     EditText mEdt01;
@@ -83,10 +77,10 @@ public class DLTActivity extends AppCompatActivity implements AdapterView.OnItem
     }
 
 
-    @OnClick({R.id.tv_01, R.id.btn_01})
+    @OnClick({R.id.tv_001, R.id.btn_01})
     public void onViewClicked(View view) {
         switch (view.getId()) {
-            case R.id.tv_01:
+            case R.id.tv_001:
                 showPop(mList);
                 mListPopupWindow.setDropDownGravity(Gravity.END);
                 mListPopupWindow.setAnchorView(view);

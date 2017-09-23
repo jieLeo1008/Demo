@@ -8,12 +8,12 @@
         "source": "/Users/jieleo/.android/build-cache/c668fce434984077051323a3b658bfe975e41257/output/res/drawable/abc_btn_radio_material.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/CustomViewDemo/matisse/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/jieleo/.android/build-cache/c668fce434984077051323a3b658bfe975e41257/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
         "merged": "/Users/jieleo/Desktop/GitSpace/Demo/CustomViewDemo/matisse/build/intermediates/res/merged/release/drawable/abc_ic_go_search_api_material.xml",
         "source": "/Users/jieleo/.android/build-cache/c668fce434984077051323a3b658bfe975e41257/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/CustomViewDemo/matisse/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/jieleo/.android/build-cache/c668fce434984077051323a3b658bfe975e41257/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
         "merged": "/Users/jieleo/Desktop/GitSpace/Demo/CustomViewDemo/matisse/build/intermediates/res/merged/release/drawable/abc_btn_check_material.xml",
