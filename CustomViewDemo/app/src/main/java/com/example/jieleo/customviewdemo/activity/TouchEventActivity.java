@@ -51,8 +51,7 @@ public class TouchEventActivity extends AppCompatActivity implements View.OnClic
     public void onClick(View view) {
         switch (view.getId()) {
             case R.id.btn_01:
-                ThreadState = false;
-
+                startActivity(new Intent(this,WheelAddressSelectActivity.class));
                 break;
             case R.id.to_pai:
                 try{

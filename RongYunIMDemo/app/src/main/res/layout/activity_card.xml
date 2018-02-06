@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="#f88"
+    android:layout_height="match_parent"
+    tools:context="com.lc.rongyunimdemo.activity.CardActivity">
+
+
+    <com.lc.rongyunimdemo.view.stackcardview.StackCardsView
+        android:id="@+id/stack_card_view"
+        app:itemHeight="300dp"
+        app:itemWidth="300dp"
+        android:layout_width="400dp"
+        android:clipToPadding="false"
+        android:paddingBottom="20dp"
+        android:layout_height="400dp"/>
+</LinearLayout>

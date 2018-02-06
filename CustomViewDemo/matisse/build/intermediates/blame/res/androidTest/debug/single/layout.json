@@ -4,12 +4,12 @@
         "source": "/Users/jieleo/.android/build-cache/c668fce434984077051323a3b658bfe975e41257/output/res/layout/abc_action_bar_title_item.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/CustomViewDemo/matisse/build/intermediates/res/merged/androidTest/debug/layout/notification_template_lines_media.xml",
-        "source": "/Users/jieleo/.android/build-cache/c668fce434984077051323a3b658bfe975e41257/output/res/layout/notification_template_lines_media.xml"
-    },
-    {
         "merged": "/Users/jieleo/Desktop/GitSpace/Demo/CustomViewDemo/matisse/build/intermediates/res/merged/androidTest/debug/layout/notification_template_part_time.xml",
         "source": "/Users/jieleo/.android/build-cache/c668fce434984077051323a3b658bfe975e41257/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/CustomViewDemo/matisse/build/intermediates/res/merged/androidTest/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/jieleo/.android/build-cache/c668fce434984077051323a3b658bfe975e41257/output/res/layout/notification_template_lines_media.xml"
     },
     {
         "merged": "/Users/jieleo/Desktop/GitSpace/Demo/CustomViewDemo/matisse/build/intermediates/res/merged/androidTest/debug/layout/notification_action.xml",

@@ -7,17 +7,23 @@ import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.drawable.BitmapDrawable;
+import android.graphics.drawable.ColorDrawable;
 import android.net.Uri;
 import android.os.AsyncTask;
 import android.util.Log;
+import android.view.Gravity;
+import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.WindowManager;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
+import android.widget.AdapterView;
 import android.widget.ImageView;
+import android.widget.ListView;
 import android.widget.PopupWindow;
+import android.widget.SimpleAdapter;
 import android.widget.Toast;
 
 import com.google.zxing.BinaryBitmap;
@@ -37,6 +43,10 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 
 public class ExtractQRCodeActivity extends BaseActivity implements View.OnLongClickListener, MyWebView.LongClickCallBack {
@@ -45,6 +55,12 @@ public class ExtractQRCodeActivity extends BaseActivity implements View.OnLongCl
     private ImageView mImageView;
 
     private MyWebView mWebView;
+
+    private String[] titles=new String[]{"查看原图","识别二维码","发送给朋友"};
+
+//    private String[] content=new String[]{"getPic","QRCode","sendFriend"};
+
+    private List<Map<String,String>>  contents;
 
 
     @Override
@@ -76,6 +92,14 @@ public class ExtractQRCodeActivity extends BaseActivity implements View.OnLongCl
     @Override
     public void initDate() {
         mImageView.setImageBitmap(BitmapFactory.decodeResource(getResources(), R.mipmap.qrcode));
+
+        contents= new ArrayList<>();
+
+        for (int i = 0; i < titles.length; i++) {
+            Map<String,String>  map =new HashMap<>();
+            map.put("content",titles[i]);
+            contents.add(map);
+        }
 
 
 
@@ -158,8 +182,6 @@ public class ExtractQRCodeActivity extends BaseActivity implements View.OnLongCl
 
         view.measure(View.MeasureSpec.makeMeasureSpec(0, View.MeasureSpec.UNSPECIFIED), View.MeasureSpec.makeMeasureSpec(0, View.MeasureSpec.UNSPECIFIED));
 
-//        view.layout(0, 0, view.getMeasuredWidth(), view.getMeasuredHeight());
-
         view.buildDrawingCache();
 
         Bitmap bitmap = view.getDrawingCache();
@@ -178,12 +200,12 @@ public class ExtractQRCodeActivity extends BaseActivity implements View.OnLongCl
                         .setNegativeButton("确定", new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialogInterface, int i) {
-
                                 Log.d("ExtractQRCodeActivity", "isAQRCode(mImageView):" + isAQRCode(mImageView).getText());
                             }
                         }).setNeutralButton("取消", new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialogInterface, int i) {
+
                             }
                         }).create();
 
@@ -199,27 +221,62 @@ public class ExtractQRCodeActivity extends BaseActivity implements View.OnLongCl
 
 
     @Override
-    public void onLongClickCallBack(final String imgUrl) {
+    public void onLongClickCallBack(final String imgUrl,View view) {
+
+        View view1 = LayoutInflater.from(this).inflate(R.layout.item_list_pop,null,false);
+
+        PopupWindow popupWindow =new PopupWindow(view1, ViewGroup.LayoutParams.MATCH_PARENT,ViewGroup.LayoutParams.WRAP_CONTENT,true);
+
+        ListView listView =view1.findViewById(R.id.pop_list);
+
+        SimpleAdapter simpleAdapter =new SimpleAdapter(this,contents,R.layout.item_text,new String[]{"content"},new int[]{R.id.content});
+
+        listView.setAdapter(simpleAdapter);
+
+        listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+                switch (i) {
+                    case 0:
+
+                        break;
+                    case 1:
+
+                        break;
+                    case 2:
+
+                        break;
+                }
+            }
+        });
+
+        popupWindow.setBackgroundDrawable(new ColorDrawable(getResources().getColor(R.color.status_text)));
+
+        popupWindow.setTouchable(true);
+
+        popupWindow.setOutsideTouchable(true);
+
+        popupWindow.showAsDropDown(view,200,200, Gravity.CENTER_HORIZONTAL);
+
+
+
+
         Log.d("ExtractQRCodeActivity", imgUrl);
             String url =imgUrl;
 
-        new Thread(new Runnable() {
-            @Override
-            public void run() {
-                Bitmap bitmap=getBitmap(imgUrl);
-                if (isAQRCode(bitmap)==null){
-                    Log.d("ExtractQRCodeActivity", "没有二维码");
-                }else {
-                    String url =isAQRCode(bitmap).getText();
-                    Log.d("ExtractQRCodeActivity", url);
-
-                    startActivity(new Intent(Intent.ACTION_VIEW).setData(Uri.parse(url)));
-
-
-
-                }
-            }
-        }).start();
+//        new Thread(new Runnable() {
+//            @Override
+//            public void run() {
+//                Bitmap bitmap=getBitmap(imgUrl);
+//                if (isAQRCode(bitmap)==null){
+//                    Log.d("ExtractQRCodeActivity", "没有二维码");
+//                }else {
+//                    String url =isAQRCode(bitmap).getText();
+//                    Log.d("ExtractQRCodeActivity", url);
+//                    startActivity(new Intent(Intent.ACTION_VIEW).setData(Uri.parse(url)));
+//                }
+//            }
+//        }).start();
 
 //        Bitmap bitmap=getBitmap(url);
 //        Log.d("ExtractQRCodeActivity", "bitmap:" + bitmap);

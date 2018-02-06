@@ -51,7 +51,7 @@ public class MyWebView extends WebView implements View.OnLongClickListener {
         final HitTestResult htr = getHitTestResult();//获取所点击的内容
         if (htr.getType() == WebView.HitTestResult.IMAGE_TYPE) {//判断被点击的类型为图片
             Log.d("MyWebView", "htr.getType():" + htr.getType());
-            mCallBack.onLongClickCallBack(htr.getExtra());
+            mCallBack.onLongClickCallBack(htr.getExtra(),v);
         }
         return false;
     }
@@ -114,7 +114,7 @@ public class MyWebView extends WebView implements View.OnLongClickListener {
      */
     public interface LongClickCallBack{
         /**用于传递图片地址*/
-        void onLongClickCallBack(String imgUrl);
+        void onLongClickCallBack(String imgUrl,View view);
     }
 
 

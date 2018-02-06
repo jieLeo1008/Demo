@@ -213,11 +213,12 @@
                 <data android:scheme="http"/>
             </intent-filter>
         </activity>
-        <activity android:name=".activity.LiuYIAct">
-        </activity>
+t
         <activity android:name=".activity.CameraAndCropActivity">
         </activity>
         <activity android:name=".activity.SimpleRecyclerActivity">
+        </activity>
+        <activity android:name=".activity.WheelAddressSelectActivity">
         </activity>
     </application>
 

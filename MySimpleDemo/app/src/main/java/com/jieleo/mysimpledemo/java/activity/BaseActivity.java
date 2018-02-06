@@ -20,7 +20,7 @@ import android.widget.FrameLayout;
 
 public abstract class BaseActivity extends AppCompatActivity {
 
-    public static boolean NEED_FULLSCREEN=false;
+    public  boolean NEED_FULLSCREEN=true;
 
 
 //    private int screenW;

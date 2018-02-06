@@ -12,12 +12,12 @@
         "source": "/Users/jieleo/.android/build-cache/c668fce434984077051323a3b658bfe975e41257/output/res/color/abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/CustomViewDemo/matisse/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
-        "source": "/Users/jieleo/.android/build-cache/c668fce434984077051323a3b658bfe975e41257/output/res/color/abc_secondary_text_material_dark.xml"
-    },
-    {
         "merged": "/Users/jieleo/Desktop/GitSpace/Demo/CustomViewDemo/matisse/build/intermediates/res/merged/release/color/zhihu_preview_bottom_toolbar_apply.xml",
         "source": "/Users/jieleo/Desktop/GitSpace/Demo/CustomViewDemo/matisse/src/main/res/color/zhihu_preview_bottom_toolbar_apply.xml"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/Demo/CustomViewDemo/matisse/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/jieleo/.android/build-cache/c668fce434984077051323a3b658bfe975e41257/output/res/color/abc_secondary_text_material_dark.xml"
     },
     {
         "merged": "/Users/jieleo/Desktop/GitSpace/Demo/CustomViewDemo/matisse/build/intermediates/res/merged/release/color/abc_tint_spinner.xml",
