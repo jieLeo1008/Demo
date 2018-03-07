@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/benny/Desktop/GitSpace/sealtalk-android/contactcard/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/benny/Desktop/GitSpace/sealtalk-android/contactcard/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/sealtalk-android/contactcard/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/sealtalk-android/contactcard/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0/res/drawable-v21/notification_action_background.xml"
+    }
+]

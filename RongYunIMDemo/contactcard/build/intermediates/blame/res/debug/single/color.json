@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jieleo/Desktop/GitSpace/sealtalk-android/contactcard/build/intermediates/res/merged/debug/color/rc_btn_file_list_send.xml",
+        "source": "/Users/jieleo/Desktop/GitSpace/sealtalk-android/contactcard/build/intermediates/exploded-aar/sealtalk-android/IMKit/unspecified/res/color/rc_btn_file_list_send.xml"
+    },
+    {
+        "merged": "/Users/benny/Desktop/GitSpace/sealtalk-android/contactcard/build/intermediates/res/merged/debug/color/rc_btn_file_list_send.xml",
+        "source": "/Users/benny/Desktop/GitSpace/sealtalk-android/contactcard/build/intermediates/exploded-aar/sealtalk-android/IMKit/unspecified/res/color/rc_btn_file_list_send.xml"
+    }
+]
