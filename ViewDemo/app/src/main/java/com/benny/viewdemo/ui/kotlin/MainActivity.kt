@@ -11,7 +11,10 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.Button
 import com.benny.viewdemo.R
-import com.benny.viewdemo.ui.java.ZakerGridActivity
+import com.benny.viewdemo.ui.java.activity.SQLiteActivity
+import com.benny.viewdemo.ui.java.activity.VideoActivity
+import com.benny.viewdemo.ui.java.activity.ViewPagerActivity
+import com.benny.viewdemo.ui.java.activity.ZakerGridActivity
 
 class MainActivity : AppCompatActivity() {
 
@@ -36,6 +39,9 @@ class MainActivity : AppCompatActivity() {
         list = ArrayList()
 
         list.add(MainBean(ZakerGridActivity::class.java, "Zaker"))
+        list.add(MainBean(SQLiteActivity::class.java,"SQLite"))
+        list.add(MainBean(ViewPagerActivity::class.java,"TestVp"))
+        list.add(MainBean(VideoActivity::class.java,"Video"))
 
         adapter = RvAdapter(this, list)
 

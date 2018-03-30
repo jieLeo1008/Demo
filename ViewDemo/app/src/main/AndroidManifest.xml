@@ -2,6 +2,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           package="com.benny.viewdemo">
 
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <uses-permission android:name="android.permission.USE_FINGERPRINT"/>
+
     <application
         android:name=".MyApp"
         android:allowBackup="true"
@@ -17,9 +21,20 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <!--仿ZAKER-->
-        <activity android:name=".ui.java.ZakerGridActivity"
-                  android:screenOrientation="portrait"/>
+        <!-- 仿ZAKER -->
+        <activity
+            android:name=".ui.java.activity.ZakerGridActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".ui.java.activity.SQLiteActivity">
+        </activity>
+        <activity android:name=".ui.java.activity.ViewPagerActivity">
+        </activity>
+        <activity android:name=".ui.java.activity.VideoActivity">
+        </activity>
+        <activity android:name=".ui.java.activity.NotificationActivity">
+        </activity>
+        <activity android:name=".ui.java.activity.FingerActivity">
+        </activity>
     </application>
 
 </manifest>
