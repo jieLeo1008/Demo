@@ -12,7 +12,7 @@ import org.json.JSONObject;
  */
 
 @HttpServer(Conn.SERVICE_PATH)
-public class FirstPost<T> extends AsyPostForm<T> {
+public class FirstPost<T> extends AsyPost<T> {
 
 
     public FirstPost(AsyCallBack<T> asyCallBack) {
@@ -23,10 +23,6 @@ public class FirstPost<T> extends AsyPostForm<T> {
     protected T parser(JSONObject object) throws Exception {
         return object.optString("success").equals("200") ? successParser(object) : null;
     }
-
-
-
-
 
     protected T successParser(JSONObject object){
 

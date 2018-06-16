@@ -12,7 +12,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         var intent:Intent
-        intent= Intent(this,PermissionAcitivity::class.java)
+//        intent= Intent(this,PermissionAcitivity::class.java)
+        intent= Intent(this,PostTestActivity::class.java)
         startActivity(intent)
 
     }

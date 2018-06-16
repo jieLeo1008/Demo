@@ -13,16 +13,13 @@ import java.io.File;
 @HttpInlet(Conn.TASK)
 public class TestPost extends FirstPost<TestPost.PostInfo>{
 
-    public File img;
+    public byte[] img;
 
 
 
     public TestPost(AsyCallBack<PostInfo> asyCallBack) {
         super(asyCallBack);
     }
-
-
-
 
 
     @Override
